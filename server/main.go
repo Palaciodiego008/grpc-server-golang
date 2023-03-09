@@ -30,7 +30,7 @@ func getSampleBooks() []*pb.Book {
 		},
 
 		{
-			Title:     "Life, the Universe and Everything",
+			Title:     "100 Years of Solitude",
 			Author:    "Gabriel García Márquez",
 			PageCount: 432,
 		},
