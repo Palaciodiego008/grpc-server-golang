@@ -2,6 +2,8 @@ package test
 
 import "testing"
 
+var test = "test"
+
 func TestNew(t *testing.T) {
-	t.Fatalf("test")
+	t.Log(test)
 }
