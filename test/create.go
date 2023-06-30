@@ -15,3 +15,4 @@ func TestMain3(t *testing.T) {}
 func TestMain4(t *testing.T) {}
 
 func TestMain5(t *testing.T) {}
+func TestMain6(t *testing.T) {}
